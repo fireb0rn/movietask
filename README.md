@@ -1,12 +1,17 @@
-**Movie Recomendations Test**
+### Movie Recomendations Test
 
-Usage
+####Prepare
 
-``./recomendations 'animation' '12:00'`` 
+Check is composer installed ()https://getcomposer.org/) and run this
 
-or 
+``composer update``     
 
-``php recomendations.php 'animation' '12:00'`` 
+####Usage
 
-Unit tests and more documentation is coming soon..
+``./recomendations 'animation' '12:00'``  
+or        
+``php recomendations.php 'animation' '12:00'``
+
+####Run Unit Tests    
+``./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/``  
 

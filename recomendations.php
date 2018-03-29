@@ -1,6 +1,6 @@
 <?php
 
-require_once 'autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 use \Movie\Movie;
 use \Movie\MovieDataProviderRest;
