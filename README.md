@@ -1,4 +1,4 @@
-### Movie Recomendations Test
+### Movie Recomendations Task
 
 #### Prepare
 
