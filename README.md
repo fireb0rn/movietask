@@ -2,7 +2,7 @@
 
 #### Prepare
 
-Check is composer installed ()https://getcomposer.org/) and run this
+Check is composer installed (https://getcomposer.org) and run this
 
 ``composer update``     
 
